@@ -45,7 +45,8 @@ sudo apt-get install -y \
 You can log in to the web browser using http://yourip:19999 and check the status of the node.
 
 
-
+![Netdata in
+action](https://user-images.githubusercontent.com/1153921/113440964-449c2180-93a2-11eb-9664-663afa1257a8.gif)
 
 
 
